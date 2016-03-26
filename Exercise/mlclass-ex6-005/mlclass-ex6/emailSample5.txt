@@ -1,0 +1,27 @@
+Your order has been received.
+Your order has been submitted to Tennis Warehouse.
+
+Primary/Billing Address: 
+Zheng Luo
+Jiangxia STREET #1 WUHAN donghu
+Wuhan, 430223 
+CHINA
+Shipping Address:
+
+Zheng Luo 
+399 Main Ave Apt 616
+Norwalk, CT 06851
+
+Contact Information
+email: luozheng03@gmail.com
+Phone 1: 3144885784
+Phone 2: 3144885784
+Order #8059880
+Product Name	Quan	Price	Total Price
+RD2/Nike Men's Winter Advantage RF Premier Polo Red MD	1	$67.50	$67.50
+RD3/Nike Men's Winter Advantage RF Premier Polo Red LG	1	$67.50	$67.50
+Sub Total:	$135.00
+Sales Tax:	$0.00
+UPS 2nd Day Air Shipping:	$0.00
+Grand Total:	$135.00
+
